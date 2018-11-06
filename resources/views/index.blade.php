@@ -66,21 +66,21 @@
           <h1 class="mb-0">Rahmadika
             <span class="text-primary">Tri Putera</span>
           </h1>
-          <div class="subheading mb-5">Bintaro Permai II · Jakarta Selatan 12330, Indonesia · (+62) 895-636-824-722 ·
+          <div class="subheading mb-5">Bintaro Permai II · Jakarta Selatan · Indonesia · (+62) 895-636-824-722 ·
             <a href="mailto:rahmadika.putera@gmail.com">rahmadika.putera@gmail.com</a>
           </div>
           <p class="lead mb-5">Finally I can make this with Laravel♥♥</p>
           <div class="social-icons">
-            <a href="#">
+            <a href="https://www.linkedin.com/in/rahmadika-tri-putera-073338126">
               <i class="fab fa-linkedin-in"></i>
             </a>
-            <a href="#">
+            <a href="https://github.com/rahmadikaaa">
               <i class="fab fa-github"></i>
             </a>
-            <a href="#">
+            <a href="https://twitter.com/rahmadikaaa">
               <i class="fab fa-twitter"></i>
             </a>
-            <a href="#">
+            <a href="https://www.facebook.com/kadalapi21">
               <i class="fab fa-facebook-f"></i>
             </a>
           </div>
@@ -147,44 +147,13 @@
           <h2 class="mb-5">Skills</h2>
 
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-          <ul class="list-inline dev-icons">
-            <li class="list-inline-item">
-              <i class="fab fa-html5"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-css3-alt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-js-square"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-angular"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-react"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-node-js"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-sass"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-less"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-wordpress"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-gulp"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-grunt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="fab fa-npm"></i>
-            </li>
-          </ul>
+          <div class="resume-content mr-auto">
+              PHP · HTML · Js · Laravel · Mysql · Bootstrap 
+            
+            </div>
+          <br>
+            
+
 
           <div class="subheading mb-3">Workflow</div>
           <ul class="fa-ul mb-0">
